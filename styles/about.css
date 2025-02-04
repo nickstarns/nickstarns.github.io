@@ -108,14 +108,6 @@ li:hover span{
   margin-bottom: 10px; 
 }
 
-.headshot{
-  width: 200px; 
-  height: 200 px; 
-  border-radius: 50%; 
-  object-fit: cover; 
-  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); 
-}
-
 .profile-bio-text p{
   color: #636363; 
   line-height: 1.5;
